@@ -6,6 +6,9 @@ Sample UI and output can be seen here:
 
 ## Getting Started
 
+Find a detailed blog post here: Generate [Storybook Illustrations](https://medium.com/@ramsrigoutham/generate-kids-story-illustrations-with-ai-in-just-1-click-programmatically-full-tutorial-eea0d60ee848)
+
+
 Register for two API services [Segmind](https://www.segmind.com/) and [OpenAI](https://platform.openai.com/)
 
 Set two environmental variables  eg: In .env.local
