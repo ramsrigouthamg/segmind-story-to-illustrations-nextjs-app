@@ -6,9 +6,12 @@ Sample UI and output can be seen here:
 
 ## Getting Started
 
-Set two environmental variables in a file eg: .env.local
+Register for two API services [Segmind](https://www.segmind.com/) and [OpenAI](https://platform.openai.com/)
+
+Set two environmental variables  eg: In .env.local
 
 OPENAI_API_KEY=sk-xxxx
+
 SEGMIND_API_KEY=SG_xxxxx
 
 Then, run the development server:
