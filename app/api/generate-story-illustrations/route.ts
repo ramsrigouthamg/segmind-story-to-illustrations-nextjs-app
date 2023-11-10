@@ -13,7 +13,6 @@ const gpt3_headers = {
     "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
 }
 
-console.log("gpt3_headers ", gpt3_headers)
 
 
 export const POST = async (req: NextRequest, res: Response) => {
