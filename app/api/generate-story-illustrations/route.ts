@@ -139,7 +139,7 @@ export const POST = async (req: NextRequest, res: Response) => {
                 strength: 0.2,
                 high_noise_fraction: 0.8,
                 // seed: "468685",
-                seed: randomSeed.toString(),
+                seed: randomSeed,
                 img_width: 1024,
                 img_height: 1024,
                 refiner: true,
